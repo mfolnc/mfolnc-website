@@ -1,6 +1,6 @@
 === March For Our Lives NC ===
 
-Contributors: Nico GLeason
+Contributors: Nico Gleason
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 
 Requires at least: 4.5
